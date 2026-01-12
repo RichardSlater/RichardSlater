@@ -62,9 +62,6 @@ I started writing code on a second-hand **ZX Spectrum** before I was 10, then mi
 ![GitHub followers](https://img.shields.io/github/followers/RichardSlater?style=for-the-badge&logo=github&label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/RichardSlater?style=for-the-badge&logo=github&label=Total%20Stars)
 ![GitHub repos](https://img.shields.io/badge/Repos-123-blue?style=for-the-badge&logo=github)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RichardSlater&theme=tokyonight&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RichardSlater&theme=tokyo-night&hide_border=true&area=true)
 
 </div>

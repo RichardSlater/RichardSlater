@@ -91,8 +91,8 @@ I started writing code on a second-hand **ZX Spectrum** before I was 10, then mi
 |---------|-------------|------|
 | [**dotfiles**](https://github.com/RichardSlater/dotfiles) | 🔧 Personal configuration files managed with chezmoi | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | [**richard-slater.co.uk**](https://github.com/RichardSlater/richard-slater.co.uk) | 🌐 Personal website and tech blog | ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white) |
-| [**bromcom-timetable-formatter**](https://github.com/RichardSlater/bromcom-timetable-formatter) | 📅 Timetable formatting utility | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| [**muaddib**](https://github.com/RichardSlater/muaddib) | 🔍 Shai-Hulud vulnerability scanner | ![Security](https://img.shields.io/badge/-Security-red?style=flat-square&logo=hackaday&logoColor=white) |
+| [**bromcom-timetable-formatter**](https://github.com/RichardSlater/bromcom-timetable-formatter) | 📅 Timetable formatting utility | ![Rust](https://img.shields.io/badge/-Rust-FFFFFF?style=flat-square&logo=rust&logoColor=black) |
+| [**muaddib**](https://github.com/RichardSlater/muaddib) | 🔍 Shai-Hulud vulnerability scanner | ![Go](https://img.shields.io/badge/-Go-50b7e0?style=flat-square&logo=go&logoColor=white) |
 
 </div>
 
